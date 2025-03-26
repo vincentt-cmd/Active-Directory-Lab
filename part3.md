@@ -49,13 +49,13 @@ License Agreement for Splunk
 ---
 
 9. Configure Splunk to automatically start during system boot and run it under the user splunk, ensuring Splunk starts as a background service when the server is rebooted
-10. 
+    
 ![image](https://github.com/user-attachments/assets/d214f8a6-a2a7-406e-8873-73c81d96a11c)
 
 ---
 
 10. Set Windows Machine (Target PC) static IP to 192.168.10.100
-11. 
+    
 ![image](https://github.com/user-attachments/assets/07d0ba3a-c05d-4597-ae67-d0e9c0096a00)
 
 ---
