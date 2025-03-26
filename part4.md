@@ -20,9 +20,11 @@ Windowsrocks!9
 
 ---
 3. Create an Organizational Unit within the Active Directory called IT to simulate a real-world department of an organization, then add a new user
+
 ![image](https://github.com/user-attachments/assets/6dd530f0-740f-44b9-be49-1416ec54f147)
 
 ![image](https://github.com/user-attachments/assets/d7165975-dd72-4079-b806-45b764c2f9e1)
+
 
 User:
 John Pork
@@ -31,7 +33,9 @@ Windowsrocks!9
 
 ---
 4. Create Create an Organizational Unit called HR to simulate a real-world department of an organization, then add a new user
+
 ![image](https://github.com/user-attachments/assets/ab236edb-09bd-4811-a7b3-f59e9260630d)
+
 
 User:
 Down Dog
