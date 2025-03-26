@@ -21,10 +21,4 @@ The objective of this project was to create a controlled environment for simulat
 - **Sysmon** for monitoring system activity, logging process creation, network connections, and file modifications
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+Refer to the files within this repositories for the steps I took (separated in parts).
