@@ -38,7 +38,8 @@ Objective: Use Kali Linux to perform a brute force attack on users, view telemet
 9. Install Hydra, another brute-force tool since Crowbar didn't work for me
 
 
-Crowbar not working for me
+- Crowbar not working for me
+  
 ![image](https://github.com/user-attachments/assets/4d6d1b08-7aa1-4698-8cf2-28b793a6848f)
 
 ---
