@@ -1,1 +1,18 @@
+# Project Name
 
+## Introducing Business Computing and Corporate Analytics
+
+Let's combine the sales from all stores into a discreet data set, and see where we go.
+
+### Summarizing Progress to Date
+
+The following represents a microcosm of the work you've done, then we add a new concept: the corporation class.
+
+---
+
+## Project Steps
+
+### Step 1: Define Classes and Setup Environment
+
+```python
+import random
