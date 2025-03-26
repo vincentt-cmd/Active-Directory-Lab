@@ -30,7 +30,7 @@ Ubuntu Server 22.04.02 (signing in for the first time)
 ![image](https://github.com/user-attachments/assets/f39a700f-fa7d-4e36-8065-72dbae99d6f0)
 
 ---
-Running `sudo apt-get update && sudo apt-get upgrade -y` in the Ubuntu Server machine. Updates the package list and then automatically upgrades all installed packages to their latest versions automatically.
+5. Running `sudo apt-get update && sudo apt-get upgrade -y` in the Ubuntu Server machine. Updates the package list and then automatically upgrades all installed packages to their latest versions automatically.
 ![image](https://github.com/user-attachments/assets/69d28693-dfa3-4dab-a570-74de912b673b)
 
 ---
