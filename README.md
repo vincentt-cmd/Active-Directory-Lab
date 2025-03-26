@@ -21,4 +21,4 @@ The objective of this project was to create a controlled environment for simulat
 - **Sysmon** for monitoring system activity, logging process creation, network connections, and file modifications
 
 ## Steps
-Refer to the files within this repositories for the steps I took (separated in parts).
+Refer to the files within this repository for the steps I took (separated in parts).
