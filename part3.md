@@ -26,7 +26,8 @@ Windows Server Static IP has been set to `192.168.10.10`
 5. Download Splunk Enterprise 9.4.1 for Linux
 ![image](https://github.com/user-attachments/assets/5467cc9a-08e4-4e18-a549-2939e7c0516a)
 
-6. Install open-vm-tools and open-vm-tools-desktop to enable VMware integration features, specifically clipboard sharing (for next steps).
+---
+7. Install open-vm-tools and open-vm-tools-desktop to enable VMware integration features, specifically clipboard sharing (for next steps).
 
 ---
 7. Enable shared folders to be able to transfer files easily (alternative that might've been better is SSH)
