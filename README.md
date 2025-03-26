@@ -5,13 +5,12 @@
 The objective of this project was to create a controlled environment for simulating and detecting cyber threats. The primary focus was on integrating Active Directory, Splunk as a Security Information and Event Management (SIEM) system, alongside Kali Linux and Atomic Red Team, to generate realistic attack scenarios and corresponding telemetry. This hands-on experience provided valuable experience  in log analysis, threat detection, and penetration testing.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Proficiency in integrating and managing Active Directory within a controlled lab environment.
+- Understanding and practical application of Splunk for log analysis and threat detection in a SIEM system.
+- Experience in generating and simulating attack scenarios using Kali Linux and Atomic Red Team.
+- Ability to analyze security event logs and identify anomalies.
+- Strengthened problem-solving and critical thinking abilities in detecting and mitigating cybersecurity threats.
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
