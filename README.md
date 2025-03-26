@@ -2,8 +2,7 @@
 
 ## Objective
 
-The goal of this project was to create a controlled environment for simulating real-world cybersecurity scenarios. The focus was on integrating Active Directory, Splunk, Kali Linux, and Atomic Red Team to analyze logs, detect threats, and perform penetration testing. This hands-on experience was aimed at developing practical skills in identifying, analalyzing, and facilitating cybersecurity threats in a simulated environment.
-
+The objective of this project was to create a controlled environment for simulating and detecting cyber threats. The primary focus was on integrating Active Directory, Splunk as a Security Information and Event Management (SIEM) system, alongside Kali Linux and Atomic Red Team, to generate realistic attack scenarios and corresponding telemetry. This hands-on experience provided valuable experience  in log analysis, threat detection, and penetration testing.
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
