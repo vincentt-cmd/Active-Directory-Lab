@@ -48,21 +48,41 @@ License Agreement for Splunk
 ---
 
 9. Configure Splunk to automatically start during system boot and run it under the user splunk, ensuring Splunk starts as a background service when the server is rebooted
-![image](https://github.com/user-attachments/assets/1fd80270-5bc4-45d9-b1a3-de1db5fe5f60)
+![image](https://github.com/user-attachments/assets/d214f8a6-a2a7-406e-8873-73c81d96a11c)
 
 ---
 
+10. Set Windows Machine (Target PC) static IP to 192.168.10.100
+![image](https://github.com/user-attachments/assets/07d0ba3a-c05d-4597-ae67-d0e9c0096a00)
 
+---
+11. Download Splunk Universal Forwarder on Windows Machine
+![image](https://github.com/user-attachments/assets/3b2df4a9-1d79-4074-9eeb-3def8173a5d4)
 
+---
+12. Download Olaf Sysmon configuration (comes with pre-configured rules, widely adopted, etc.)
+![image](https://github.com/user-attachments/assets/d4281456-a4a5-4bcd-bf41-2f4774af2251)
 
+---
+13. Create an inputs.conf file in the Splunk Universal Forwarder directory to collect Windows Event Logs (Application, Security, System) and Sysmon Operational logs, indexing them into the endpoint index with Sysmon logs rendered as XML.
+![image](https://github.com/user-attachments/assets/201cbd88-45a6-4525-a507-456fc2df1f3c)
 
+---
+14. Log into Splunk dashboard (192.168.10.10:8000)
+![image](https://github.com/user-attachments/assets/3589d25c-a81e-4aac-8e67-301a78125d87)
 
+---
+15. Create a new index called `endpoint` to organize and store the event data
+![image](https://github.com/user-attachments/assets/9473ae06-d2d7-471a-a5a8-5decb34b4038)
 
+---
+16. Search for event logs within the index `endpoint`
+![image](https://github.com/user-attachments/assets/400f0c83-1a15-4716-a071-a6639ad5ef05)
 
+---
+16. Repeat the process to install Splunk Universal Forwarder and Sysmon for the Windows Server (AD)
+![image](https://github.com/user-attachments/assets/1af4d608-8cbc-4db3-9bf5-c701e785e344)
 
-
-
-
-
+---
 Issues I ran into during this part:
 - In VMware, a file called 50-cloud-init.yaml was created under the /etc/netplan/ directory, which I initially expected to be 00-installer-config.yaml, where I intended to configure a static IP address for the Splunk server. I first attempted to set the static IP directly in 50-cloud-init.yaml, but encountered an issue where the static IP would reset every time the server was rebooted. To resolve this, I created my own 00-installer-config.yml file with a different format for manual network configuration. This new file successfully applied the static IP configuration and prevented it from resetting upon reboot.
