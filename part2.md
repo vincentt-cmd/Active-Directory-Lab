@@ -9,6 +9,7 @@ Objective: Install virtual machines on VMware (Windows 10, Kali Linux, Ubuntu Se
    Login: Administrator / Windowsrocks!9
 4. Download Ubuntu Server 22.04.02 (latest) Iso and install on VMware (8 GB RAM, 2 Cores, 100 GB Disk)
    Login: joe / Windowsrocks!9
+   
    ![image](https://github.com/user-attachments/assets/c9e4d0db-8281-48bd-ba0b-bea7c2d47b1d)
    
 ---
