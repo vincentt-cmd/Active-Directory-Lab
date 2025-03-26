@@ -12,10 +12,16 @@ Objective: Install virtual machines on VMware (Windows 10, Kali Linux, Ubuntu Se
 
 Kali Linux Machine (signing in for the first time)
 ![image](https://github.com/user-attachments/assets/7faf4459-9602-4317-9bac-a7c1ae780bf0)
+
+---
 Windows Server 2022 (configuring settings)
 ![image](https://github.com/user-attachments/assets/d5c42db3-480a-49f9-82d3-1778498a8682)
+
+---
 Windows 10 Machine (configuring settings)
 ![image](https://github.com/user-attachments/assets/60bf9ede-b531-4a92-b80e-5fc76451f6fd)
+
+---
 Ubuntu Server 22.04.02 (signing in for the first time)
 ![image](https://github.com/user-attachments/assets/f39a700f-fa7d-4e36-8065-72dbae99d6f0)
 
