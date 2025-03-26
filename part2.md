@@ -9,6 +9,9 @@ Objective: Install virtual machines on VMware (Windows 10, Kali Linux, Ubuntu Se
    Login: Administrator / Windowsrocks!9
 4. Download Ubuntu Server 22.04.02 (latest) Iso and install on VMware (8 GB RAM, 2 Cores, 100 GB Disk)
    Login: joe / Windowsrocks!9
+   ![image](https://github.com/user-attachments/assets/c9e4d0db-8281-48bd-ba0b-bea7c2d47b1d)
+   
+---
 
 Kali Linux Machine (signing in for the first time)
 ![image](https://github.com/user-attachments/assets/7faf4459-9602-4317-9bac-a7c1ae780bf0)
@@ -25,4 +28,10 @@ Windows 10 Machine (configuring settings)
 Ubuntu Server 22.04.02 (signing in for the first time)
 ![image](https://github.com/user-attachments/assets/f39a700f-fa7d-4e36-8065-72dbae99d6f0)
 
+---
 Running `sudo apt-get update && sudo apt-get upgrade -y` in the Ubuntu Server machine. Updates the package list and then automatically upgrades all installed packages to their latest versions automatically.
+![image](https://github.com/user-attachments/assets/69d28693-dfa3-4dab-a570-74de912b673b)
+
+---
+Server Manager on Windows Server 2022 (booted for the first time)
+![image](https://github.com/user-attachments/assets/9a55b4ed-2efb-45c9-bbff-dd52a803514f)
