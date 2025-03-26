@@ -14,11 +14,11 @@ The objective of this project was to create a controlled environment for simulat
 
 ### Tools Used
 
-- Splunk as a Security Information and Event Management (SIEM) system for log ingestion, analysis, and threat detection.
-- Active Directory for setting up and managing user accounts, permissions, and network resources.
-- Kali Linux for conducting penetration testing and simulating attack scenarios.
-- Atomic Red Team for generating real-world attack techniques and simulating adversary tactics.
-- Sysmon for monitoring system activity, logging process creation, network connections, and file modifications
+- **Splunk** as a Security Information and Event Management (SIEM) system for log ingestion, analysis, and threat detection.
+- **Active Directory** for setting up and managing user accounts, permissions, and network resources.
+- **Kali Linux** for conducting penetration testing and simulating attack scenarios.
+- **Atomic Red Team** for generating real-world attack techniques and simulating adversary tactics.
+- **Sysmon** for monitoring system activity, logging process creation, network connections, and file modifications
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
