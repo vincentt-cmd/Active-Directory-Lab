@@ -14,4 +14,5 @@ Components:
 
 - Switch: Connects all servers and client machines on the same local network. Facilitates communication between devices within the network, but does not route data outside of the network.
 - Router: Connects the local network to the external internet, enabling the ability to download updates, access external sites, etcetera.  Allows configuration of port forwarding and other network security settings.
+- 
 ![image](https://github.com/user-attachments/assets/6cf63b18-b0f8-4e50-99bf-ca85858d1821)
