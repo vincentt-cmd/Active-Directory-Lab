@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The goal of this project was to create a controlled environment for simulating real-world cybersecurity scenarios. The focus was on integrating Active Directory, Splunk, Kali Linux, and Atomic Red Team to analyze logs, detect threats, and perform penetration testing. This hands-on experience was aimed at developing practical skills in identifying, analalyzing, and facilitating cybersecurity threats in a simulated environment.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
