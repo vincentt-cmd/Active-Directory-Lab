@@ -10,6 +10,7 @@ Objective: Use Kali Linux to perform a brute force attack on users, view telemet
 
 ---
 3. Create a new directory on the desktop to organize all files used in this part
+
 ![image](https://github.com/user-attachments/assets/06c45064-e145-4caf-b6bb-64184a22fddf)
 
 ---
@@ -18,6 +19,7 @@ Objective: Use Kali Linux to perform a brute force attack on users, view telemet
 
 ---
 5. Extract rockyou.txt.gz, which contains a password wordlist included in Kali Linux, commonly used for brute-force attacks and password cracking
+
 ![image](https://github.com/user-attachments/assets/19d8b97e-1a6c-4dc3-bf63-85274817a551)
 
 ---
