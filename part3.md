@@ -33,7 +33,6 @@ Windows Server Static IP has been set to `192.168.10.10`
 7. Enable shared folders to be able to transfer files easily (alternative that might've been better is SSH)
 ![image](https://github.com/user-attachments/assets/125eddaa-5729-4a74-a1c0-8b963b0ade2e)
 
----
 
 - Had to manually mount the folder to /mnt/hgf using `sudo mount -t fuse.vmhgfs-fuse .host:/ /mnt/hgfs -o allow_other`
 
