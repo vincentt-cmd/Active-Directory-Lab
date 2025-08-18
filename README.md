@@ -1,4 +1,4 @@
-# Active Directory Project - March 26, 2025
+# Active Directory / Splunk Project - March 26, 2025
 
 This is my first lab ever!
 
