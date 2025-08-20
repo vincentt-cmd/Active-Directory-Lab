@@ -19,7 +19,7 @@ Components:
 - Kali Linux Client: Linux distribution used for penetration testing. Used to test the security of the network and systems.
 
 
-- Switch: Connects all servers and client machines on the same local network. Facilitates communication between devices within the network, but does not route data outside of the network.
+- Switch: Connects all servers and client machines on the same local network. Facilitates communication between devices within the network.
 - Router: Connects the local network to the external internet, enabling the ability to download updates, access external sites, etcetera.  Allows configuration of port forwarding and other network security settings.
   
 ---
