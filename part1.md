@@ -7,7 +7,11 @@ Components:
 
 
 - Splunk Universal Forwarder: Lightweight agent installed on servers and clients to forward log data from the Active Directory Server and Windows 10 client. Includes system, application, security logs, and more.
+
+
 - Sysmon: Windows tool that provides detailed logs of system activity, such as process creation, network connections, etcetera. Crucial for detecting suspicious activity, such as malware execution and privilege escalation. These logs are forwarded to Splunk for analysis.
+
+  
 - Atomic Red Team: Collection of simple, modular tests designed to simulate real-world attack techniques. Used to test monitoring and detection capabilities on systems. Useful for evaluating security infrastructure, such as Splunk's ability to detect on malicious behavior.
 
 
