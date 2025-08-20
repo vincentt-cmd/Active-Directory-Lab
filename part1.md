@@ -1,5 +1,5 @@
 # Part 1
-Objective: Create a diagram for the lab before starting in order to better understand how everything is connected.
+Objective: Create a diagram for the lab before starting in order to better understand how everything within the network is connected.
 
 Components:
 - Splunk Server: Central log analysis and monitoring. Allows you to monitor, search, and visualize data from sources such as the AD server and client machines.
